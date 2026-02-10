@@ -44,7 +44,8 @@ This is Laboratory Seatwork 2 for the course, Software Engineering 2, taken duri
 - close(): void
 - toString()
 
-**Note: ** No if-else, switch will be used.
+
+**Note:** No if-else, switch will be used.
 
 **Create AccountTest() class to test the Account:**
 
